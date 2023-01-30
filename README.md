@@ -21,6 +21,8 @@ Doctor specialities used :      Neurologist
 PageNumberPagination:
     page_size = 2
     
+Have used ModelSerializer for the field in Doctor class in serializer.DoctorSerializer
+    
     
 Created 3 api endpoints to get following details using Filtering queryset: 
 
