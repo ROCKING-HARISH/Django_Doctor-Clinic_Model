@@ -2,7 +2,7 @@
 
 hello evryone
 
-I have created a user acoounnt as harish.
+I have created an user_account as harish.
 
 Admin login credential:
 user name: harish
@@ -20,5 +20,7 @@ PageNumberPagination:
 You can use the following dynamic URLs:
 
 doctors/clinic/<int:clinic_id>/
+
 doctors/clinic/<int:clinic_id>/speciality/<str:speciality>/
+
 doctors/clinic/<int:clinic_id>/speciality/<str:speciality>/timing/
